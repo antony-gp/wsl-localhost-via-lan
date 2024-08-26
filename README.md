@@ -54,7 +54,7 @@ Now to access on another device in your network, just use `192.168.X.X:$PORT` (*
 
 ---
 
-This is not an original guide, just an adaptation containing only the necessary steps with no aditional information.
+This is not an original guide, just an adaptation containing only the necessary steps with no additional information.
 
 For more details regarding some of the steps, you can check the original guide.
 
